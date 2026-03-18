@@ -14,12 +14,6 @@
 
 ---
 
-## 🚀 Experience & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nodejs,fastapi,react,js,python,php,mysql,postgres,git&theme=dark" />
-</p>
-
 💡 **What I work with:**
 
 ### 🌐 Frontend Development
@@ -47,8 +41,7 @@
 
 ## 📌 Projects Focus
 
-- 🏥 Medical systems (appointments, patient records, database management)
-- 🌐 Fullstack web applications
+- 🌐 Web applications
 - 🔐 Basic cybersecurity & vulnerability analysis (OWASP)
 
 ---
